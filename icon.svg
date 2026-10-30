@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Berakah Remodeling">
+  <rect width="64" height="64" fill="#0C0B0A"/>
+  <path d="M32 18 55 41h-7L32 26 16 41H9z" fill="#A06028"/>
+  <rect x="27" y="44" width="4.5" height="4.5" fill="#A06028"/>
+  <rect x="32.5" y="44" width="4.5" height="4.5" fill="#A06028"/>
+  <rect x="27" y="49.5" width="4.5" height="4.5" fill="#A06028"/>
+  <rect x="32.5" y="49.5" width="4.5" height="4.5" fill="#A06028"/>
+  <path d="M25 14h5v13h-5zM32 10h5v17h-5zM39 15h5v12h-5z" fill="#B0B0B0"/>
+</svg>
